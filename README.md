@@ -7,7 +7,11 @@ Alzheimer’s Disease (AD), a neurodegenerative condition marked by gradual cogn
 
 <img width="1712" height="974" alt="image" src="https://github.com/user-attachments/assets/e78f1bab-1164-49d6-aad1-b8206d901ddd" />
 
+# Input data:
+
+The Differentially Integrated Genes (DEG) details downloaded from ssREAD database and given as input to the SRTING database is present in the /Data folder.
+
 # Files to run:
 
-1. Detection of Spreader Nodes: Spreader Nodes.py --> Input/Output Folder: spreader nodes
+1. Detection of Spreader Nodes: Spreader Nodes.py --> Input/Output Folder: spreader nodes. The spreader node names generated for each of the 10 DEGs are given in the /Data/DEG_details.xlsx
 
