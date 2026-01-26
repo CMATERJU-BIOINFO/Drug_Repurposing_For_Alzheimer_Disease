@@ -10,5 +10,4 @@ Alzheimer’s Disease (AD), a neurodegenerative condition marked by gradual cogn
 # Files to run:
 
 1. Detection of Spreader Nodes: Spreader Nodes.py --> Input/Output Folder: spreader nodes
-2. Computation of Drug Consensus Score (DCS) DCSS.py --> Input/Output Folder: Drug analysis
 
