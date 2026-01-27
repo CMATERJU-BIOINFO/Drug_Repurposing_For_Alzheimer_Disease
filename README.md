@@ -13,5 +13,7 @@ The Differentially Integrated Genes (DEG) details downloaded from ssREAD databas
 
 # Files to run:
 
-1. Detection of Spreader Nodes: Spreader Nodes.py --> Input/Output Folder: spreader nodes. The spreader node names generated for each of the 10 DEGs are given in the /Data/DEG_details.xlsx
+1. Detection of Spreader Nodes: Spreader_Node_Detection.py --> Input/Output Folder: Spreader Node Detection & Gene-Drug Mapping (DrugBank & DGIDB). The spreader node names generated for each of the 10 DEGs are given in the /Data/DEG_details.xlsx
+2. Mapping of Spreaders to Drugs in DrugBank: Spreader_Drug_Mapping_Count_DrugBank.py --> Input/Output Folder: Spreader Node Detection & Gene-Drug Mapping (DrugBank & DGIDB).
+3. Mapping of Spreaders to Drugs in DGIdb: Spreader_Drug_Mapping_DgiDB.py --> Input/Output Folder: Spreader Node Detection & Gene-Drug Mapping (DrugBank & DGIDB).
 
