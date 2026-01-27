@@ -1,0 +1,35 @@
+DB00746|1|Deferoxamine
+DB00843|1|Donepezil
+DB02709|2|Resveratrol
+DB14517|1|Aluminium phosphate
+DB00615|1|Rifabutin
+DB00157|1|NADH
+DB01041|1|Thalidomide
+DB00852|2|Pseudoephedrine
+DB14533|1|Zinc chloride
+DB00716|1|Nedocromil
+DB01593|1|Zinc
+DB00514|1|Dextromethorphan
+DB08814|1|Triflusal
+DB11093|1|Calcium Citrate
+DB01370|1|Aluminium
+DB14487|1|Zinc acetate
+DB06782|1|Dimercaprol
+DB11348|1|Calcium Phosphate
+DB00536|1|Guanidine
+DB13961|1|Fish oil
+DB09092|1|Xanthinol
+DB02659|1|Cholic Acid
+DB13751|1|Glycyrrhizic acid
+DB00945|1|Acetylsalicylic acid
+DB09149|1|Florbetapir (18F)
+DB00025|1|"Antihemophilic factor, human recombinant"
+DB09151|1|Flutemetamol (18F)
+DB09130|6|Copper
+DB14518|1|Aluminum acetate
+DB13999|1|Moroctocog alfa
+DB08813|1|Nadroparin
+DB09148|1|Florbetaben (18F)
+DB00993|1|Azathioprine
+DB13998|1|Lonoctocog alfa
+DB14481|1|Calcium phosphate dihydrate

@@ -1,0 +1,42 @@
+GAPDH|DB00157|Humans|NADH
+SRSF1|DB09130|Humans|Copper
+NFKB1|DB00852|Humans|Pseudoephedrine
+APP|DB09149|Humans|Florbetapir (18F)
+APP|DB09130|Humans|Copper
+FOS|DB08813|Humans|Nadroparin
+APP|DB09148|Humans|Florbetaben (18F)
+APP|DB01593|Humans|Zinc
+HSPA5|DB13998|Humans|Lonoctocog alfa
+NFKB1|DB08814|Humans|Triflusal
+APP|DB01370|Humans|Aluminium
+HSP90AA1|DB00716|Humans|Nedocromil
+GAPDH|DB09092|Humans|Xanthinol
+APP|DB09151|Humans|Flutemetamol (18F)
+HSPA5|DB00025|Humans|"Antihemophilic factor, human recombinant"
+HSP90AA1|DB00615|Humans|Rifabutin
+APP|DB14487|Humans|Zinc acetate
+APP|DB02709|Humans|Resveratrol
+CALM3|DB14481|Humans|Calcium phosphate dihydrate
+NFKB1|DB00843|Humans|Donepezil
+COX4I1|DB02659|Humans|Cholic Acid
+FOS|DB00852|Humans|Pseudoephedrine
+HSPA5|DB00945|Humans|Acetylsalicylic acid
+APP|DB14533|Humans|Zinc chloride
+NFKB1|DB13961|Humans|Fish oil
+HSPA5|DB09130|Humans|Copper
+NFKB1|DB01041|Humans|Thalidomide
+CALM3|DB11093|Humans|Calcium Citrate
+CALM3|DB11348|Humans|Calcium Phosphate
+APP|DB00746|Humans|Deferoxamine
+SNCA|DB02709|Humans|Resveratrol
+APP|DB14518|Humans|Aluminum acetate
+SNCA|DB09130|Humans|Copper
+APP|DB14517|Humans|Aluminium phosphate
+GAPDH|DB09130|Humans|Copper
+RAC1|DB00993|Humans|Azathioprine
+HSP90AA1|DB09130|Humans|Copper
+DLG4|DB00536|Humans|Guanidine
+NFKB1|DB13751|Humans|Glycyrrhizic acid
+HSPA5|DB13999|Humans|Moroctocog alfa
+APP|DB06782|Humans|Dimercaprol
+RAC1|DB00514|Humans|Dextromethorphan
