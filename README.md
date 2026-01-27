@@ -10,8 +10,9 @@ Alzheimer’s Disease (AD), a neurodegenerative condition marked by gradual cogn
 <img width="1712" height="974" alt="image" src="https://github.com/user-attachments/assets/23be795e-1742-49aa-9f8d-cec3e6f082af"/>
 
 # Input data:
-
+<p align="justify">
 The <b>Differentially Integrated Genes (DEG)</b> details downloaded from <b>ssREAD database</b> (https://bmblx.bmi.osumc.edu/ssread/) and given as input to the <b>STRING database</b> (https://string-db.org/) is present in the /Data folder.
+</p>
 
 # Files to run:
 <p align="justify">
