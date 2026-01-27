@@ -11,7 +11,7 @@ Alzheimer’s Disease (AD), a neurodegenerative condition marked by gradual cogn
 
 # Input data:
 <p align="justify">
-The <b>Differentially Integrated Genes (DEG)</b> details downloaded from <b>ssREAD database</b> (https://bmblx.bmi.osumc.edu/ssread/) and given as input to the <b>STRING database</b> (https://string-db.org/) is present in the /Data folder.
+The <b>Differentially Integrated Genes (DEG)</b> details downloaded from <b>ssREAD database</b> (https://bmblx.bmi.osumc.edu/ssread/) and given as input to the <b>STRING database</b> (https://string-db.org/) is present in the "Data" folder.
 </p>
 
 # Files to run:
@@ -24,3 +24,18 @@ The <b>Differentially Integrated Genes (DEG)</b> details downloaded from <b>ssRE
 <p align="justify">
 3. <b>Mapping of Spreaders to Drugs in DGIdb:</b> Run Spreader_Drug_Mapping_DgiDB.py --> Input/Output Folder: Spreader Node Detection & Gene-Drug Mapping (DrugBank & DGIDB).
 </p> 
+
+# Docking
+
+<p align="justify">
+<b>Software used : </b>
+</p>
+<p align="justify">
+  1. AutoDock Tool version 1.5.7 
+</p>
+<p align="justify">
+  2. BIOVIA Discovery Studio 2020
+</p>
+<p align="justify">
+  The pdb files for the protein and ligands structures are present in the "Docking_files.zip" folder. The files generated post docking are also present in the respective ligand folders.
+</p>
