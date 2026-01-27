@@ -7,7 +7,7 @@ Alzheimer’s Disease (AD), a neurodegenerative condition marked by gradual cogn
 
 # Computational Model
 
-<img width="1712" height="974" alt="image" src="https://github.com/user-attachments/assets/e78f1bab-1164-49d6-aad1-b8206d901ddd" />
+<img width="1712" height="974" alt="image" src="https://github.com/user-attachments/assets/23be795e-1742-49aa-9f8d-cec3e6f082af"/>
 
 # Input data:
 
