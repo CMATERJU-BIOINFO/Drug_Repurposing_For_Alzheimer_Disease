@@ -11,7 +11,7 @@ Alzheimer’s Disease (AD), a neurodegenerative condition marked by gradual cogn
 
 # Input data:
 
-The Differentially Integrated Genes (DEG) details downloaded from ssREAD database and given as input to the SRTING database is present in the /Data folder.
+The <b>Differentially Integrated Genes (DEG)</b> details downloaded from <b>ssREAD database</b> (https://bmblx.bmi.osumc.edu/ssread/) and given as input to the <b>STRING database</b> (https://string-db.org/) is present in the /Data folder.
 
 # Files to run:
 <p align="justify">
