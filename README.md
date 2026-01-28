@@ -17,18 +17,19 @@ The <b>Differentially Integrated Genes (DEG)</b> details for the below samples d
 
 <div align="left">
 
-| # | 👤 Gender | 🧪 DEG Sample Comparison |
-|---|-----------|--------------------------|
-| 1 | 👩 Female | EC AD00204 vs AD00202 |
-| 2 | 👩 Female | PC AD00103 vs AD00106 |
-| 3 | 👩 Female | SPL AD01206 vs AD01202 |
-| 4 | 👨 Male   | EC AD00206 vs AD00201 |
-| 5 | 👨 Male   | EC AD00205 vs AD00201 |
-| 6 | 👨 Male   | PC AD00803 vs AD00801 |
-| 7 | 👨 Male   | PC AD00102 vs AD00101 |
-| 8 | 👨 Male   | PC AD00104 vs AD00101 |
-| 9 | 👨 Male   | PC AD00108 vs AD00101 |
-|10 | 👨 Male   | SPL AD01203 vs AD01201 |
+| :--: | :------: | :--------: | :----------: |
+| :--- | :------: | :--------: | :----------: |
+| **#** | **👤 Gender** | **🧠 Brain Region** | **🧪 Sample Comparison** |
+| 1 | 👩 **Female** | 🧠 **EC** | AD00204 vs AD00202 |
+| 2 | 👩 **Female** | 🧠 **PC** | AD00103 vs AD00106 |
+| 3 | 👩 **Female** | 🧠 **SPL** | AD01206 vs AD01202 |
+| 4 | 👨 **Male** | 🧠 **EC** | AD00206 vs AD00201 |
+| 5 | 👨 **Male** | 🧠 **EC** | AD00205 vs AD00201 |
+| 6 | 👨 **Male** | 🧠 **PC** | AD00803 vs AD00801 |
+| 7 | 👨 **Male** | 🧠 **PC** | AD00102 vs AD00101 |
+| 8 | 👨 **Male** | 🧠 **PC** | AD00104 vs AD00101 |
+| 9 | 👨 **Male** | 🧠 **PC** | AD00108 vs AD00101 |
+|10 | 👨 **Male** | 🧠 **SPL** | AD01203 vs AD01201 |
 </div>
 <div align="left">
 
