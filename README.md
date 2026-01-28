@@ -19,7 +19,7 @@ The <b>Differentially Integrated Genes (DEG)</b> details for the below samples d
 
 | :--: | :------: | :--------: | :----------: |
 | :--- | :------: | :--------: | :----------: |
-| **#** | **👤 Gender** | **🧠 Brain Region** | **🧪 Sample Comparison** |
+| **#** | **👤 Gender** | **🧠 Brain Region** | **🧪 Sample Comparison (Diseased vs Control)** |
 | 1 | 👩 **Female** | 🧠 **EC** | AD00204 vs AD00202 |
 | 2 | 👩 **Female** | 🧠 **PC** | AD00103 vs AD00106 |
 | 3 | 👩 **Female** | 🧠 **SPL** | AD01206 vs AD01202 |
